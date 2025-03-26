@@ -8,8 +8,8 @@ Written in Vite + React, launched locally for debug with Express
 
 ## Logic Layer
 
-Handles logic for interfacing between frontend and backend
+Handles logic for interfacing between frontend and backend, written in java
 
 ## Backend
 
-Interfaces with supabase db
+Interfaces with supabase db, written in java
