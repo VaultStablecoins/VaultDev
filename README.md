@@ -6,6 +6,12 @@ This is a repository which holds the frontend, logic layer, and backend of the V
 
 Written in Vite + React, launched locally for debug with Express
 
+### To Run
+
+npm run start
+
+Server is running on http://localhost:3000
+
 ## Logic Layer
 
 Handles logic for interfacing between frontend and backend, written in java
